@@ -1,0 +1,2 @@
+kubeadm join 172.31.21.78:6443 --token dg7mvp.vmfkvdazvexy0cdv \   
+        --discovery-token-ca-cert-hash sha256:3265adbce1a2c46a02c503dd7ba13cb1356aa3c3dd7ba13cb1356aa3cbf8537a9cf055a3a8026466cc
